@@ -1,0 +1,29 @@
+C:\Users\zhang\KCF_detail\c++_implementation\cmake_generate\Debug\KCF ball 1
+
+.\cmake_generate\Debug\KCF ball 1
+.\cmake_generate\Debug\KCF ball 1
+.\cmake_generate\Debug\KCF basketball 1
+.\cmake_generate\Debug\KCF bicycle 1
+.\cmake_generate\Debug\KCF bolt 1
+.\cmake_generate\Debug\KCF car 1
+.\cmake_generate\Debug\KCF david 1
+.\cmake_generate\Debug\KCF diving 1
+.\cmake_generate\Debug\KCF drunk 1
+.\cmake_generate\Debug\KCF fernando 1
+.\cmake_generate\Debug\KCF fish1 1
+.\cmake_generate\Debug\KCF fish2 1
+.\cmake_generate\Debug\KCF gymnastics 1
+.\cmake_generate\Debug\KCF hand1 1
+.\cmake_generate\Debug\KCF hand2 1
+.\cmake_generate\Debug\KCF jogging 1
+.\cmake_generate\Debug\KCF motocross 1
+.\cmake_generate\Debug\KCF polarbear 1
+.\cmake_generate\Debug\KCF skating 1
+.\cmake_generate\Debug\KCF sphere 1
+.\cmake_generate\Debug\KCF sunshade 1
+.\cmake_generate\Debug\KCF surfing 1
+.\cmake_generate\Debug\KCF torus 1
+.\cmake_generate\Debug\KCF trellis 1
+.\cmake_generate\Debug\KCF tunnel 1
+.\cmake_generate\Debug\KCF woman 1
+pause
