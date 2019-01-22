@@ -1,0 +1,34 @@
+digraph ast{
+	rankdir=LR;
+	fontname = "Microsoft YaHei";
+	fontsize = 10;
+
+	node [shape = circle, fontname = "Microsoft YaHei", fontsize = 10];
+	edge [fontname = "Microsoft YaHei", fontsize = 10];
+	node [shape="plaintext"];
+
+	src [label="src"];
+  source [label="source"];
+	main [label="main.cpp"];
+	fhog [label="fhog.cpp"];
+  kcftracker_cpp [label="kcftracker.cpp"];
+
+  head [label="head"];
+	ffttools [label="ffttools.hpp",fontcolor=blue];
+  kcftracker_hpp [label="kcftracker.hpp",fontcolor=blue];
+  labdata [label="labdata.hpp",fontcolor=blue];
+  recttoools [label="recttoools.hpp",fontcolor=blue];
+
+  tracker [label="tracker.h",fontcolor=green];
+  dirent [label="dirent.h(for_linux_function)",fontcolor=green];
+
+
+
+	src -> source;
+	src -> head;
+
+  source -> main; source -> fhog; source -> kcftracker_cpp;
+
+  head -> ffttools; head -> kcftracker_hpp; head -> labdata; head -> recttoools; head -> tracker; head -> dirent;
+
+}

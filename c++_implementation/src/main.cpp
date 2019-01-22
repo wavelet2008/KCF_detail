@@ -21,7 +21,7 @@ int main(int argc, char * argv[])
 {
 	  bool HOG = true;
 	  bool FIXEDWINDOW = false;
-	  bool MULTISCALE = false;
+	  bool MULTISCALE = true;
 	  bool SILENT = true;
 	  bool LAB = false;
     std::string sequence = "/sequence";
