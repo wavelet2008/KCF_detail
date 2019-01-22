@@ -59,8 +59,6 @@
 ![kcf_c++](https://zhangxin-1258487717.cos.ap-beijing.myqcloud.com/kcf_detail_file_dir.jpg) 
 
 **kcf c++代码汇总表**
-{% raw %}
-
 <table>
   <tr>   
     <td colspan="2">文件名称</td>
@@ -174,5 +172,4 @@
     </td>
   </tr>  
 </table>
-{% endraw %}
 
